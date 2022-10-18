@@ -73,13 +73,13 @@
   ],
   "buffers": [
     {
-      "uri": "cone_data.bin",
+      "uri": "https://raw.githubusercontent.com/alexjulianleeds/cone_test/main/cone_data.bin",
       "byteLength": 20022612
     }
   ],
   "images": [
     {
-      "uri": "cone_img0.jpg"
+      "uri": "https://raw.githubusercontent.com/alexjulianleeds/cone_test/main/cone_img0.jpg"
     }
   ],
   "materials": [
